@@ -5,6 +5,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 <<<<<<< HEAD
 		System.out.print("hello word");
+         // student id:300293244
+         // sumit singh
 =======
 		
 		//test
