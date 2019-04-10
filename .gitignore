@@ -3,3 +3,4 @@ Check the git status
 -- Check the status again
 -- Commit the .gitignore file
 -- Push the changes to github.
+/bin/
