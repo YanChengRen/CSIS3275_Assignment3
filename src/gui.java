@@ -1,6 +1,8 @@
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
+import java.awt.GridBagLayout;
+import javax.swing.JButton;
 
 public class gui {
 
@@ -27,6 +29,9 @@ public class gui {
 	 */
 	public gui() {
 		initialize();
+		/* Name: Yan Cheng Ren
+		 Student ID: 300179993
+		*/
 	}
 
 	/**
@@ -36,6 +41,10 @@ public class gui {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 450, 300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+		
+		JButton btnHello = new JButton("Hello");
+		btnHello.setBounds(83, 122, 89, 23);
+		frame.getContentPane().add(btnHello);
 	}
-
 }
