@@ -29,15 +29,12 @@ public class gui {
 	 */
 	public gui() {
 		initialize();
-<<<<<<< HEAD
 		// student id:300293244
         // sumit singh
 
-=======
 		/* Name: Yan Cheng Ren
 		 Student ID: 300179993
 		*/
->>>>>>> daac8bb34850f11efa89b2cadafcb8eaf83c164f
 	}
 
 	/**
