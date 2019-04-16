@@ -32,6 +32,9 @@ public class gui {
 		// student id:300293244
         // sumit singh
 
+		//Student ID: 300286621
+		//Name: Ram Bhasin
+
 		/* Name: Yan Cheng Ren
 		 Student ID: 300179993
 		*/
